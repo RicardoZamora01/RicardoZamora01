@@ -19,8 +19,18 @@ My name is Ricardo Zamora (he/him). Born and raised in Oakland, CA, I decided to
 
 [rzamora\@wesleyan.edu](mailto:rzamora@wesleyan.edu)
 
+### Fun Facts About Me
 
+* I have 10 cats! I know it's a ton, but we rescue them when they are stray kittens! :)
+* I love building and displaying LEGO's.
 
+### Roles I'm Interested In
+* Software Engineering
+* Data Analytics
+* Data Engineering
+* IT Specialist
+* Cloud Engineer
+* Anything AI!
 <!--
 **RicardoZamora01/RicardoZamora01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
